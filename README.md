@@ -18,10 +18,10 @@ Start the node server, runs on port 8085 by default:
 
 ### `node node_server.js <apiKey>`
 
-Start the react app in development mode, runs on port 3000 by default:
+In a separate terminal window, start the react app in development mode. Runs on port 3000 by default:
 
 ### `npm start`
 
-## Learn More
+## About Create react App
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
