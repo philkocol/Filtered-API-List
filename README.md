@@ -6,6 +6,8 @@ Back end node server leveraging express for api endpoints.
 
 Utilizes [The LOTR API](https://the-one-api.herokuapp.com/documentation) for character names and wiki links.
 
+Tested and working with both Chrome and Firefox. Edge seems to have a problem with it but no surprises there.
+
 ## Running Locally
 
 From the main project directory:
@@ -21,6 +23,8 @@ Start the node server, runs on port 8085 by default:
 In a separate terminal window, start the react app in development mode. Runs on port 3000 by default:
 
 ### `npm start`
+
+Application is now viewable at [http://localhost:3000/](http://localhost:3000/)
 
 ## About Create react App
 
