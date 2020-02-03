@@ -1,0 +1,42 @@
+.CharacterList{
+    height:100%;
+}
+
+.card{
+    display: flex;
+    margin: auto;
+    align-items: flex-start;
+    background-color: #d2c89f;
+}
+
+.list-group{
+    width: 100%;
+    z-index: 100;
+    font-family: "fantasy", Luminari, fantasy;
+}
+
+a.list-group-item{
+    background-color: #d2c89f;
+}
+
+a.list-group-item.list-group-item-action.active{
+    background-color: #d2c89f;
+}
+
+a.list-group-item:hover{
+    background-color: #d2c89f;
+    opacity:0.8;
+}
+
+button.list-group-item{
+    background-color: #d2c89f;
+}
+
+button.list-group-item.list-group-item-action{
+    background-color: #d2c89f;
+}
+
+button.list-group-item:hover{
+    background-color: #d2c89f;
+    opacity:0.8;
+}
